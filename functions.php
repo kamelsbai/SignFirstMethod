@@ -21,7 +21,7 @@ function emptyInput($name, $email){
 
 }
 
-function invalideName($name){
+function invalidName($name){
 
     $result;
 
